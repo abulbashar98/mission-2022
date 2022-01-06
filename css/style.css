@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    margin: 0px;
+    }
+h2{
+    font-size: 50px;
+    font-weight: 900px;
+    margin: 0px;
+}
+h3{
+    font-size: 35px;
+    margin: 0px;
+}
+h4{
+    font-size: 24px;
+}
+.color-oranged{
+    color: orange;
+}
+.navy-blue{
+    color: #13103A;
+}
+.buttton-color{
+    color: #FF5959;
+}
+.white-text{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 2%;
+   }
+
+.half-width img{
+    width: 80%;
+    position: relative;
+    top: -75px;
+}
+.half-width p{
+    font-size: 14px;
+    color: #3E3E3E;
+    padding: 15px 0;
+}
+.need-flex{
+    display: flex;
+    width: 90%;
+    margin: 50px auto 80px;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 25px;
+    border-radius: 5px;
+
+}
+
+.left-lining {
+    background-image: linear-gradient(#FF5959, orange,  #FF5959);
+    width: 5px;
+    height: 135px;
+    position: relative;
+    left:17px ;
+    top: 22px;
+  
+}
+
+#section-3{
+padding-top: 79px;
+}
+.headline{
+    text-align: center;
+}
+
+.triplet-box{
+    width: 25%;
+    margin: 40px auto 40px;
+    padding: 25px;
+    border-radius: 25px;
+}
+.triplet-box img{
+width: 50%;
+}
+
+#mission{
+    background-color: #a6bdce;
+}
+#vision{
+    background-color: #dabdcf;
+}
+#goals{
+    background-color: #f1dea9;
+}
+
+#projects h4{
+    font-size: 20px;
+}
+#projects div{
+    box-shadow:  10px 10px 10px gray;
+    border: solid 2px black;
+}
+#projects div img{
+    height: 120px;
+    position: relative;
+    left: 48px;
+}
+
+
+
+footer{
+    background-color: #0B0D17;
+}
+footer div{
+    padding:50px 150px ;
+    text-align: center;
+}
+
+footer h3{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+footer p{
+    color: thistle;
+    font-size: 12px;
+    text-align:center ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
